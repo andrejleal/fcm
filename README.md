@@ -1,5 +1,5 @@
 # Summary
-The FCM repository provides an application for component configuration management. It has been develop for a company that has many applications using the same toggle component with toggle properties store in a properties file. This service will allow the management of those configurations allowing to change configurations without restarting the services that depends on it.
+The FCM repository provides an application for component configuration management. It has been develop for a company that has many applications using the same toggle component with toggle properties stored in a properties file. This service will allow the management of those configurations without restarting the dependent services.
 
 Check some docs in folder [**/docs**](/docs).
 
